@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @palsypentertainment
+- 👀 I’m interested in coding (PHP, JS, JQuery, MySQL) and DJing 
+- 📫 How to reach me: @djpalsyp on most social networks
+- ⚡ Fun fact: I'm physically disabled.
